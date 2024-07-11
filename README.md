@@ -54,12 +54,12 @@ The model demonstrated high accuracy in classifying patients based on sequential
 
 ## Conclusion
 
-This study demonstrates the potential of GRU neural networks in predicting liver disease progression. By capturing temporal dependencies in patient data, the model provides a promising tool for early detection and improved management of liver disease. Future work should focus on expanding the dataset and incorporating interpretive approaches for enhanced clinical utility.
+This study demonstrates the potential of GRU neural networks in predicting liver disease progression. By capturing temporal dependencies inpatient data, the model provides a promising tool for early detection and improved management of liver disease. Future work should focus on expanding the dataset and incorporating interpretive approaches for enhanced clinical utility.
 
 ## Authors
 
-- Mohamed A. Lotfy, Artificial Intelligence Student, King Salman International University
 - Mohammed S. Dabour, Artificial Intelligence Student, King Salman International University
+- Mohamed A. Lotfy, Artificial Intelligence Student, King Salman International University
 - Mohamed A. AbdElhamid, Artificial Intelligence Student, King Salman International University
 
 ## Acknowledgements
